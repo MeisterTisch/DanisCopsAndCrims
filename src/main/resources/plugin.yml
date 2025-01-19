@@ -1,0 +1,3 @@
+name: DanisCopsAndCrims
+version: '${version}'
+main: user.meistertisch.daniscopsandcrims.Main
